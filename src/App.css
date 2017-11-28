@@ -1,13 +1,15 @@
 .App {
   text-align: center;
-  max-width: 30px;
+}
 
+.App2{
+  max-width: 30px;
 }
 
 /* React Logo Stuff */
 
 .App-logo {
-  animation: App-logo-spin infinite 0.7s linear;
+  animation: App-logo-spin infinite 3s linear;
   height: 80px;
 }
 
